@@ -1,5 +1,5 @@
 # Función para ingresar las temperaturas diarias
-
+# # Programación Tradicional
 
 def ingresar_temperaturas():
     temperaturas = []
