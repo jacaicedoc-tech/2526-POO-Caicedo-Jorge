@@ -1,6 +1,6 @@
 
 # Dashboard.py
-# Autor: Kiara
+# Autor: Jorge Andrés Caicedo Chere
 # Materia: Programación Orientada a Objetos
 # Repositorio: jacaicedoc-tech/2526-POO-Caicedo-Jorge (estructura real)
 # Descripción:
