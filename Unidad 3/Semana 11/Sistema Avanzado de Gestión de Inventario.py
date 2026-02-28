@@ -1,5 +1,6 @@
-
-
+# Sistema Avanzado de Gestión de Inventario, aplicando POO
+# colecciones (listas, diccionarios, conjuntos, tuplas) para gestionar los datos del inventario.
+# Autor: Jorge Caicedo.
 
 import json
 import os
